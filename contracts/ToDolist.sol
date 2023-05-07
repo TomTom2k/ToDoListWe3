@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-contract ToDolist {
+contract ToDoList {
     uint256 public _idUser;
     address public ownerOfContract;
 
